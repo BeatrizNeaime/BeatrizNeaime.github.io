@@ -5,7 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 I succcessfully built the Frontend Mentor QR Code challenge, where I should build a QR Code card and it must be responsive.
 
-### Screenshot
+### Screenshots
 
 ![](./images/screenshot.png)
 Here you can see an overview of how it behaves in desktop displays
