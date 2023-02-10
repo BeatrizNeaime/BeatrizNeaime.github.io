@@ -6,7 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshots](#screenshots)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -24,10 +23,6 @@ Here you can see an overview of how it behaves in desktop displays
 ![](./images/mobile-screenshot.png)
 And here how it behaves in mobile displays
 
-### Links
-
-- Linkedin Profile: [Beatriz Neaime](https://www.linkedin.com/in/beatriz-neaime-1564b51b1/)
-
 ## My process
 
 ### Built with
@@ -41,6 +36,7 @@ And here how it behaves in mobile displays
 
 - Website - [Personal Portfolio](beatrizneaime.vercel.app)
 - Frontend Mentor - [@BeatrizNeaime](https://www.frontendmentor.io/profile/BeatrizNeaime)
+- Linkedin Profile: [Beatriz Neaime](https://www.linkedin.com/in/beatriz-neaime-1564b51b1/)
 
 ## Tips
 
