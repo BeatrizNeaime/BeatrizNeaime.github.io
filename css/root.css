@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600&display=swap');
+
+:root {
+    --azul: #2B7EFA;
+    --azul-claro: #D6E1F0;
+    --azul-escuro: hsl(218, 44%, 22%);
+    --cinza: hsl(220, 15%, 55%);
+    --outfit: 'Outfit', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
