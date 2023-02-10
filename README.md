@@ -10,10 +10,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Tips](#tips)
 
 ## Overview
 
@@ -24,12 +22,14 @@ I succcessfully built the Frontend Mentor QR Code challenge, where I should buil
 ![](./images/screenshot.png)
 Here you can see an overview of how it behaves in desktop displays
 
-![](./images/screenshot.png)
+![](./images/mobile-screenshot.png)
 And here how it behaves in mobile displays
 
 ### Links
 
 - Linkedin Profile: [Beatriz Neaime](https://www.linkedin.com/in/beatriz-neaime-1564b51b1/)
+
+## My process
 
 ### Built with
 
@@ -39,8 +39,6 @@ And here how it behaves in mobile displays
 - Flexbox
 
 ## Author
-
-### Beatriz Neaime
 
 - Website - [Personal Portfolio](beatrizneaime.vercel.app)
 - Frontend Mentor - [@BeatrizNeaime](https://www.frontendmentor.io/profile/BeatrizNeaime)
